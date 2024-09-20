@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+ <group android:checkableBehavior="single">
+  <item
+      android:id="@+id/inboxFragment2"
+      android:icon="@android:drawable/ic_dialog_email"
+      android:title="@string/inbox_menu"/>
+
+    <item
+        android:id="@+id/sentItemFragment"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="@string/sent_items_menu"/>
+ </group>
+
+  <item
+    android:title="Support">
+
+    <menu>
+
+
+      <item
+          android:id="@+id/helpFragment"
+          android:icon="@android:drawable/ic_menu_help"
+          android:title="@string/help_menu"/>
+
+    </menu>
+
+  </item>
+
+</menu>

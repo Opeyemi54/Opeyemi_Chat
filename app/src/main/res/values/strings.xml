@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Opeyemi\'s Chat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="inbox_text">Inbox</string>
+    <string name="help_text">Help</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="account_text">No orders yet</string>
+    <string name="sent_items_text">Sent Items</string>
+    <string name="inbox_menu">Inbox</string>
+    <string name="sent_items_menu">Sent Items</string>
+    <string name="help_menu">Help</string>
+    <string name="place_your_orders_below">Place your Orders below</string>
+    <string name="input_order">input order</string>
+    <string name="order">Order</string>
+    <string name="help">Help</string>
+    <string name="home">Home</string>
+    <string name="orders">Orders</string>
+    <string name="account">Account</string>
+
+</resources>
